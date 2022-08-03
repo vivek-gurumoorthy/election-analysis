@@ -35,3 +35,13 @@ After submission of the original audit dataa, a Colorado Board of Elections Empl
 3. The county with the highest voter turnout
 
 ## Challenge Summary 
+* Voter turnout per county:
+   * Jefferson county accounted for 38,855 total votes
+   * Denver county accounted for 306,055 total votes
+   * Arapahoe county accounted for 24,801 total votes
+* Percentage of total vote coming from each county:
+   * Jefferson county accounted for 10.5% of all votes
+   * Denver county accounted for 82.8% of all votes
+   * Arapahoe county accounted for 6.7% of all votes
+* County with the highest voter turnout
+   * Denver county had the highest voter turnout, accounting for 306,055 total votes and 82.8% of all votes cast 
