@@ -14,6 +14,18 @@ A Colorado Board of Elections Employee has given you the following tasks to comp
 - Software: Python 3.6.1, Visual Studio Code 1.38.1
 
 ## Summary
+The analysis of the election show that:
+* There were "x" votes cast in the election
+* The candidates were:
+    * Candidate 1
+    * Candidate 2
+    * Candidate 3
+* The candidate results were:
+    * Candidate 1 received % of the vote and total votes
+    * Candidate 1 received % of the vote and total votes
+    * Candidate 1 received % of the vote and total votes
+* The winner of the election was:
+    * Candidate who received % of vote and total votes
 
 ## Challenge Overview
 
